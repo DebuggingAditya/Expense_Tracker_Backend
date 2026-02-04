@@ -16,6 +16,7 @@ obj/
 
 ## ASP.NET Core
 appsettings.Development.json
+appsettings.json     # Ignore main appsettings file with real secrets
 
 ## Logs
 *.log
