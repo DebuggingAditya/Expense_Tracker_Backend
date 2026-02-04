@@ -1,0 +1,41 @@
+## Ignore Visual Studio / .NET build results
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## ASP.NET Core
+appsettings.Development.json
+
+## Logs
+*.log
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+## Environment variables
+.env
+
+## Migrations snapshot (optional – agar migration repo me nahi chahiye)
+# Migrations/
+
+## Publish output
+publish/
+
+## NuGet packages
+*.nupkg
+*.snupkg
+
+## Others
+node_modules/
